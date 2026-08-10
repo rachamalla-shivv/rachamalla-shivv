@@ -1,68 +1,37 @@
 # 👋 Hi, I'm Rachamalla Shiva Shankar Goud
 
-### 🚀 DevOps Engineer | AWS | Linux | Terraform | Ansible | Docker | Kubernetes | CI/CD
+### 🚀 Aspiring DevOps Engineer | AWS | Linux | Terraform | Ansible | Docker | Kubernetes | CI/CD
 
-I’m a **DevOps Engineer focused on cloud infrastructure, automation, containerization, and deployment workflows**.
+I’m an **Aspiring DevOps Engineer focused on cloud infrastructure, automation, containerization, and deployment workflows**.
 
-I enjoy building infrastructure from the ground up, automating repetitive tasks, deploying applications using containers and Kubernetes, and troubleshooting real-world infrastructure problems.
-
-Currently, I’m strengthening my expertise in **AWS, Terraform, Ansible, Docker, Kubernetes, Linux, Shell Scripting, and CI/CD** through hands-on projects.
+I build hands-on projects around AWS infrastructure, Infrastructure as Code, configuration management, containers, Kubernetes, and automation. I enjoy troubleshooting infrastructure issues and understanding how systems work from the ground up.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- ☁️ Building and automating infrastructure on **AWS**
-- 🏗️ Writing Infrastructure as Code using **Terraform**
-- ⚙️ Automating configuration and deployments with **Ansible**
-- 🐳 Containerizing applications using **Docker**
-- ☸️ Working with **Kubernetes and EKS**
-- 🔄 Learning and implementing **CI/CD pipelines**
-- 🐧 Working extensively with **Linux and Shell Scripting**
-- 🔍 Interested in **Cloud Infrastructure, DevOps Automation, and Platform Engineering**
-- 🎯 Looking for **DevOps / Cloud / Infrastructure Engineering opportunities**
+* ☁️ Building and automating infrastructure on **AWS**
+* 🏗️ Writing Infrastructure as Code using **Terraform**
+* ⚙️ Automating configuration and deployments with **Ansible**
+* 🐳 Working with **Docker and containerized applications**
+* ☸️ Working with **Kubernetes and EKS**
+* 🔄 Learning and implementing **CI/CD pipelines**
+* 🐧 Working with **Linux and Shell Scripting**
+* 🔐 Learning AWS networking, security, and infrastructure best practices
+* 🎯 Looking for **DevOps, Cloud, Infrastructure, and DevOps Internship opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**EC2 · VPC · IAM · S3 · Route 53 · ALB · EBS · CloudFront · ACM · EKS · SSM**
-
-### 🏗️ Infrastructure as Code
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-
-**Terraform · Modules · Variables · Data Sources · Workspaces · Remote State · Multi-Environment Infrastructure**
-
-### ⚙️ Configuration Management
-
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-**Ansible · Roles · Templates · Variables · Handlers · Automation**
-
-### 🐳 Containers & Orchestration
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Docker · Docker Images · Docker Networks · Kubernetes · Deployments · Services · ConfigMaps · Secrets · EKS**
-
-### 🔄 CI/CD & Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-**Git · GitHub · Jenkins · CI/CD Pipelines · Build & Deployment Automation**
-
-### 🐧 Operating Systems & Scripting
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Linux · RHEL · Bash · Shell Scripting · System Administration · Troubleshooting**
+| Category                          | Technologies                                                                                                  |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ☁️ **Cloud**                      | AWS · EC2 · VPC · IAM · S3 · Route 53 · ALB · EBS · CloudFront · ACM · EKS · SSM                              |
+| 🏗️ **Infrastructure as Code**    | Terraform · Modules · Variables · Data Sources · Workspaces · Remote State · Multi-Environment Infrastructure |
+| ⚙️ **Configuration Management**   | Ansible · Roles · Templates · Variables · Handlers · Automation                                               |
+| 🐳 **Containers & Orchestration** | Docker · Docker Images · Docker Networks · Kubernetes · EKS · Deployments · Services · ConfigMaps · Secrets   |
+| 🔄 **CI/CD & Version Control**    | Git · GitHub · Jenkins · CI/CD Pipelines · Build Automation · Deployment Automation                           |
+| 🐧 **Linux & Scripting**          | Linux · RHEL · Bash · Shell Scripting · System Administration · Troubleshooting                               |
 
 ---
 
@@ -72,20 +41,22 @@ Currently, I’m strengthening my expertise in **AWS, Terraform, Ansible, Docker
 
 **AWS · Terraform · Ansible · Linux · Docker · Kubernetes**
 
-A hands-on DevOps project focused on deploying and automating a multi-component application infrastructure.
+A hands-on DevOps project focused on automating infrastructure and deploying a multi-component application.
 
-**What I worked on:**
-- AWS infrastructure provisioning using Terraform
-- Reusable Terraform modules
-- Multi-environment infrastructure
-- Configuration management using Ansible
-- Linux server administration
-- Application deployment and troubleshooting
-- Containerized workloads using Docker
-- Kubernetes-based deployments
-- AWS networking and security configuration
+### 🔧 What I worked on
 
-🔗 **Repository:**  
+* AWS infrastructure provisioning using Terraform
+* Reusable Terraform modules
+* Multi-environment infrastructure
+* AWS networking and security configuration
+* EC2-based application infrastructure
+* Configuration management using Ansible
+* Linux server administration
+* Application deployment and troubleshooting
+* Containerized workloads using Docker
+* Kubernetes-based application deployments
+
+🔗 **Repository:**
 https://github.com/rachamalla-shivv/roboshop-dev-infra
 
 ---
@@ -94,21 +65,22 @@ https://github.com/rachamalla-shivv/roboshop-dev-infra
 
 **Terraform · AWS · Infrastructure as Code**
 
-Built reusable AWS infrastructure using Terraform with a focus on automation and maintainability.
+Built reusable AWS infrastructure using Terraform with an emphasis on automation and maintainability.
 
-**Hands-on areas:**
-- VPC creation
-- Public and private subnets
-- Route tables
-- Internet Gateway
-- Security Groups
-- EC2 instances
-- AWS data sources
-- Terraform modules
-- Remote state
-- Environment management
+### 🔧 Hands-on areas
 
-🔗 **Repository:**  
+* VPC creation
+* Public and private subnets
+* Route tables
+* Internet Gateway
+* Security Groups
+* EC2 instances
+* AWS data sources
+* Terraform modules
+* Remote state
+* Multi-environment configuration
+
+🔗 **Repository:**
 https://github.com/rachamalla-shivv/terraform-aws-vpc
 
 ---
@@ -119,16 +91,18 @@ https://github.com/rachamalla-shivv/terraform-aws-vpc
 
 Automated application configuration and deployment using Ansible.
 
-**Hands-on areas:**
-- Ansible roles
-- Variables
-- Templates
-- Handlers
-- Service configuration
-- Application deployment
-- Linux administration
+### 🔧 Hands-on areas
 
-🔗 **Repository:**  
+* Ansible roles
+* Variables
+* Templates
+* Handlers
+* Service configuration
+* Application deployment
+* Linux administration
+* Configuration automation
+
+🔗 **Repository:**
 https://github.com/rachamalla-shivv/ansible-roboshop-roles-tf
 
 ---
@@ -137,80 +111,72 @@ https://github.com/rachamalla-shivv/ansible-roboshop-roles-tf
 
 **Linux · Bash · Shell Scripting**
 
-A collection of practical shell scripts created while working with Linux administration and DevOps automation.
+A collection of practical shell scripts created while learning Linux administration and DevOps automation.
 
-**Topics include:**
-- Variables
-- Conditions
-- Loops
-- Functions
-- User management
-- File operations
-- System administration
-- Automation scripts
+### 🔧 Topics
 
-🔗 **Repository:**  
+* Variables
+* Conditions
+* Loops
+* Functions
+* User management
+* File operations
+* System administration
+* Automation scripts
+
+🔗 **Repository:**
 https://github.com/rachamalla-shivv/shell-roboshop
 
 ---
 
-# 📚 What I'm Currently Learning
+# 📚 Currently Learning
 
 ```text
-AWS Cloud
-    ↓
+AWS
+ ↓
 Terraform
-    ↓
+ ↓
 Ansible
-    ↓
+ ↓
 Docker
-    ↓
+ ↓
 Kubernetes / EKS
-    ↓
+ ↓
 CI/CD
-    ↓
+ ↓
 Cloud & DevOps Automation
 ```
 
-I'm continuously improving my skills through **hands-on implementation rather than only theoretical learning**.
+I’m continuously improving my skills through **hands-on projects, troubleshooting, and practical implementation**.
 
 ---
 
 # 🎯 Career Objective
 
-I’m looking for an opportunity where I can work on **real-world cloud infrastructure, automation, CI/CD, containerization, and Kubernetes environments**.
+I’m looking for opportunities where I can work with **real-world cloud infrastructure, automation, CI/CD, containers, and Kubernetes**.
 
-I’m particularly interested in:
+### Interested in:
 
-- DevOps Engineer
-- Cloud Engineer
-- Infrastructure Engineer
-- Platform Engineer
-- Junior DevOps Engineer
-- Cloud/DevOps Intern
+* DevOps Engineer
+* Junior DevOps Engineer
+* Cloud Engineer
+* Infrastructure Engineer
+* Platform Engineer
+* DevOps Intern
+* Cloud/DevOps Intern
 
-I’m open to **internships and entry-level opportunities** where I can contribute, learn from experienced engineers, and grow into a strong DevOps professional.
+I’m looking for an environment where I can **contribute to real projects, learn from experienced engineers, and grow into a strong DevOps professional**.
 
 ---
-# 📊 GitHub Stats
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachamalla-shivv&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachamalla-shivv&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rachamalla-shivv&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachamalla-shivv&layout=compact&theme=tokyonight&hide_border=true" height="180">
 </p>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachamalla-shivv&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachamalla-shivv&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachamalla-shivv&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 ---
-
 
 # 🐍 Contribution Snake
 
@@ -218,38 +184,38 @@ I’m open to **internships and entry-level opportunities** where I can contribu
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/rachamalla-shivv/rachamalla-shivv/output/github-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/rachamalla-shivv/rachamalla-shivv/output/github-snake.svg">
+<source media="(prefers-color-scheme: light)"
+       srcset="https://raw.githubusercontent.com/rachamalla-shivv/rachamalla-shivv/output/github-snake.svg">
 
-  <img src="https://raw.githubusercontent.com/rachamalla-shivv/rachamalla-shivv/output/github-snake.svg"
-       alt="GitHub Contribution Snake">
-</picture>
+<img src="https://raw.githubusercontent.com/rachamalla-shivv/rachamalla-shivv/output/github-snake.svg"
+    alt="GitHub Contribution Snake"> </picture>
 
 ---
 
 # 🤝 Let's Connect
 
 ### 💼 LinkedIn
-https://www.linkedin.com/in/rachamalla-shiva-shankar-goud-849744224/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rachamalla-shiva-shankar-goud-849744224/)
 
 ### 👨‍💻 GitHub
-https://github.com/rachamalla-shivv
+
+[![GitHub](https://img.shields.io/badge/GitHub-rachamalla--shivv-181717?style=for-the-badge\&logo=github)](https://github.com/rachamalla-shivv)
 
 ### 📫 Email
-rachamalla.shivv@gmail.com
+
+[![Email](https://img.shields.io/badge/Email-rachamalla.shivv%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rachamalla.shivv@gmail.com)
 
 ---
 
-## ⭐ If you're a recruiter
+# ⭐ Recruiter Snapshot
 
-If you're looking for someone who enjoys **building infrastructure, automating deployments, learning through hands-on projects, and solving infrastructure problems**, I'd be happy to connect.
+**DevOps-focused candidate with hands-on experience building AWS infrastructure and automating deployments using Terraform and Ansible, along with practical exposure to Linux, Docker, Kubernetes, Git, and CI/CD.**
 
-**I'm actively looking for opportunities to start and grow my career in DevOps and Cloud Engineering.**
+I’m actively looking for **DevOps / Cloud / Infrastructure internship and entry-level opportunities** where I can contribute and continue developing my skills.
 
 ---
 
 ### ⚡ Fun Fact
 
 **I enjoy breaking infrastructure in the lab so I can learn how to fix it in production. 😄**
-
-
