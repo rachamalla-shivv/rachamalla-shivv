@@ -23,3 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachamalla-shivv&show_icons=true&locale=en" alt="rachamalla-shivv" /></p>
 
+
+## 🐍 Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/rachamalla-shivv/rachamalla-shivv/output/github-contribution-grid-snake.svg)
