@@ -201,9 +201,19 @@ I’m open to **internships and entry-level opportunities** where I can contribu
 
 ---
 
+
 # 🐍 Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/rachamalla-shivv/rachamalla-shivv/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/rachamalla-shivv/rachamalla-shivv/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/rachamalla-shivv/rachamalla-shivv/output/github-snake.svg">
+
+  <img src="https://raw.githubusercontent.com/rachamalla-shivv/rachamalla-shivv/output/github-snake.svg"
+       alt="GitHub Contribution Snake">
+</picture>
 
 ---
 
@@ -233,13 +243,3 @@ If you're looking for someone who enjoys **building infrastructure, automating d
 **I enjoy breaking infrastructure in the lab so I can learn how to fix it in production. 😄**
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/rachamalla-shivv/rachamalla-shivv/output/github-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/rachamalla-shivv/rachamalla-shivv/output/github-snake.svg">
-
-  <img src="https://raw.githubusercontent.com/rachamalla-shivv/rachamalla-shivv/output/github-snake.svg"
-       alt="GitHub Contribution Snake">
-</picture>
