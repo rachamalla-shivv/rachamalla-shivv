@@ -194,7 +194,7 @@ I’m looking for an environment where I can **contribute to real projects, lear
 
 ### 💼 LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rachamalla-shiva-shankar-goud-849744224/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rachamalla-shivv/)
 
 ### 👨‍💻 GitHub
 
