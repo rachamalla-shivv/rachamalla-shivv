@@ -192,6 +192,12 @@ I’m particularly interested in:
 I’m open to **internships and entry-level opportunities** where I can contribute, learn from experienced engineers, and grow into a strong DevOps professional.
 
 ---
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rachamalla-shivv&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachamalla-shivv&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ## 📊 GitHub Analytics
 
