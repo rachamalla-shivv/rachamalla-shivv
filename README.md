@@ -193,12 +193,16 @@ I’m open to **internships and entry-level opportunities** where I can contribu
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachamalla-shivv&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rachamalla-shivv&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachamalla-shivv&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachamalla-shivv&layout=compact&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachamalla-shivv&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 ---
 
 
